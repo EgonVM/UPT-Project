@@ -1,0 +1,4 @@
+Tere!
+Siin on testifailid.
+Need on mõeldud selleks, et mänguplaane programmeerida, testida kuni see on täiuslik ja siis kasutada samu koode mängus.
+Kõikides failides on programm, mis testib mänguplaane.
