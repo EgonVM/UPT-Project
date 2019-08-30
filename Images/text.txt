@@ -1,0 +1,1 @@
+This file contains a collection of files of images and classes and functions related to them.
